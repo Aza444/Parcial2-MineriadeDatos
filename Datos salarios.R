@@ -4,7 +4,7 @@ library(dplyr)
 library(httr)
 
 # URL del archivo Excel en GitHub
-url <- "https://github.com/zamu134/PARCIAL-2-PRACTICO/raw/main/Datos%20salarios.xlsx"
+url <- "https://github.com/Aza444/Parcial2-MineriadeDatos.git"
 
 # Descargar el archivo desde GitHub y cargarlo en R
 temp <- tempfile(fileext = ".xlsx")
